@@ -6,6 +6,10 @@
 
 This repository contains a tutorial series for building a Task Manager Application using Django 4.0. The tutorial aims to guide beginners through the process of creating a functional task management system leveraging Django's capabilities.
 
+## Canva Presentation
+- Access the Canva presentation for this tutorial series:
+  - [Django Task Manager Presentation on Canva](https://www.canva.com/design/DAF4gZ_bBK0/ZsHsAJT6R2bwXoiGaAabKw/view?utm_content=DAF4gZ_bBK0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 ## Google Doc Link
 - [Tutorial Google Doc](https://docs.google.com/document/d/1rWdcFDVQzK5Lvz2sq-gIFG4B_lKl23tvfPFypFqcLfk/edit?usp=sharing)
   - Access the detailed tutorial content and scripts on Google Docs.
