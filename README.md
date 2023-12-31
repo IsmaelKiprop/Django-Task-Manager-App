@@ -1,7 +1,7 @@
 # Django Task Manager App
 
 <div align="center">
-  <img src="https://github.com/IsmaelKiprop/Django-Task-Manager-App/assets/133222922/44ba8310-e9cd-4eee-9bf0-2269d2082d2c" alt="Cover Image" width="500">
+  <img src="https://github.com/IsmaelKiprop/Django-Task-Manager-App/assets/133222922/44ba8310-e9cd-4eee-9bf0-2269d2082d2c" alt="Logo" width="1280" height="300">
 </div>
 
 This repository contains a tutorial series for building a Task Manager Application using Django 4.0. The tutorial aims to guide beginners through the process of creating a functional task management system leveraging Django's capabilities.
